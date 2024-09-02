@@ -4,7 +4,6 @@ import ComponentFactory from './ComponentFactory';
 class Main {
   constructor() {
     this.init();
-    this.initAtropos();
   }
 
   init() {

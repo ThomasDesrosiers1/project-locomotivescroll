@@ -4,6 +4,7 @@ import Carousel from './components/Carousel';
 import Header from './components/Header';
 import Accordion from './components/Accordion';
 import Form from './components/Form';
+import LocomotiveScroll from './components/LocomotiveScroll';
 
 export default class ComponentFactory {
   constructor() {
@@ -14,6 +15,7 @@ export default class ComponentFactory {
       Scrolly,
       Carousel,
       Header,
+      LocomotiveScroll,
     };
     this.init();
   }
