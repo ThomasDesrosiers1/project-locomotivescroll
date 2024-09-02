@@ -11,7 +11,5 @@ export default class {
     console.log('locomotive');
 
     const locomotive = new LocomotiveScroll();
-
-    console.log(locomotive);
   }
 }
